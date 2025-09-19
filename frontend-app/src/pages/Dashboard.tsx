@@ -266,7 +266,7 @@ const Dashboard: React.FC = () => {
         <DialogTitle sx={{ textAlign: 'center', pb: 1 }}>
           <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', mb: 2 }}>
             <Avatar
-              src="https://avatars.githubusercontent.com/u/223808920?s=200&v=4"
+              src="https://avatars.githubusercontent.com/u/106624400?s=400&u=1bbe832386ea61d0116426614c622d52b566c32a&v=4"
               alt="App Logo"
               sx={{ width: 80, height: 80, mb: 2 }}
             />
