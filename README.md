@@ -1,11 +1,11 @@
 # Cloud Enabled Deployment with Google Cloud Platform
 
-Name - T.H. Sachindu Kaveeshwara
-Student ID - 2022/G/1017
-Email - sachindukaveeshwara@gmail.com
-Screen Recording link - https://youtu.be/PG9x01oHrmQ
+#### Name - T.H. Sachindu Kaveeshwara
+#### Student ID - 2022/G/1017
+#### Email - sachindukaveeshwara@gmail.com
+#### Screen Recording link - https://youtu.be/PG9x01oHrmQ
 
-This repository contains four projects:
+## This repository contains four projects:
 
 - course-service (Spring Boot + MySQL)
 - student-service (Spring Boot + MongoDB)
